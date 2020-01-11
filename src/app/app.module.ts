@@ -8,7 +8,7 @@ import { AppComponent } from './app.component';
     AppComponent
   ],
   imports: [
-    
+    rm -fr "C:/Users/Usuario/Documents/prueba_angular/prueba/.git/rebase-apply"
   ],
   providers: [],
   bootstrap: [AppComponent]
